@@ -1,4 +1,3 @@
-
 # Work Notebook · AI, Product and Organizations
 
 This repository is a public work notebook.
@@ -12,6 +11,12 @@ It contains reflections, notes and experiments on:
 
 The content is exploratory and evolving.
 It documents thinking, not finished answers.
+
+## La Trastienda de Sergi
+
+A public record of the process behind the work: ideas in progress, decisions, experiments, failures and lessons learned while building.
+
+→ [`/trastienda`](./trastienda)
 
 ## Read by language
 
