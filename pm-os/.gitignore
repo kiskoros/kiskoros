@@ -1,0 +1,17 @@
+# Obsidian: estado local de la interfaz
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/graph.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.swp
+
+# Adjuntos pesados o sensibles (descomenta lo que aplique)
+# attachments/*.pdf
+# attachments/*.mp4
+
+# Carpeta local solo-para-mí que nunca se versiona
+_local/
