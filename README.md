@@ -18,6 +18,12 @@ A public record of the process behind the work: ideas in progress, decisions, ex
 
 → [`/trastienda`](./trastienda)
 
+## PM Operating System
+
+Plantilla de vault de Obsidian para operar como PM, construir un segundo cerebro y publicar un portfolio de forma selectiva.
+
+→ [`/pm-os`](./pm-os)
+
 ## Read by language
 
 - 🇪🇸 **Spanish** → [`/es`](./es)
